@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NoeAnguiano86
-
+- 👋 Hi, my name is Noe Anguiano
+- 
 
 <!---
 NoeAnguiano86/NoeAnguiano86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
